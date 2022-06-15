@@ -1,0 +1,7 @@
+.SimpleFormHooks {
+  border-radius: 2px;
+  border: solid 4px rgb(216, 95, 3);
+  display: flex;
+
+  background: rgb(66, 64, 64);
+}
